@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EquiSurv"]
 	path = EquiSurv
 	url = https://github.com/cran/EquiSurv
-	shallow = true
-	registered = true
 [submodule "SimDissolution"]
 	path = SimDissolution
 	url = https://github.com/cran/SimDissolution
-	shallow = true
-	registered = true
 [submodule "TestingSimilarity"]
 	path = TestingSimilarity
 	url = https://github.com/cran/TestingSimilarity
-	shallow = true
-	registered = true
